@@ -1,0 +1,23 @@
+div{
+  margin: 20px auto;
+  text-align: center;
+  font-weight: bolder;
+ 
+}
+body{
+  background-color: darkblue;
+  color: white;
+}
+
+
+form{
+  margin-top: 350px;
+}
+
+label{
+  margin-right: 5px;
+}
+button{
+  padding: 5px;
+  
+}
